@@ -9,7 +9,7 @@ mul = num1 * num2
 div = num1 / num2
 
 # Print the results
-print("Addition:", add)
-print("Subtraction:", sub)
-print("Multiplication:", mul)
-print("Division:", div)
+print("Addition is ", add)
+print("Subtraction is ", sub)
+print("Multiplication is", mul)
+print("Division is", div)
